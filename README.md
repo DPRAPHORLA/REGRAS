@@ -1,0 +1,2 @@
+# REGRAS
+Regras Da StreamFilms
